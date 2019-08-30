@@ -17,7 +17,7 @@ export class HomeComponent implements OnInit {
     let typed = new Typed(".banner_home_typed", {
       strings: [
         
-        "Welcome to <br/> Tristen Q's Site"
+        "Welcome to <br/> Tristen's Site"
         /*"What, you were expecting something after that?",
         "What else do you want me to put here‽",
         "Oh, also, did you know that this is called the Interrobang? -> ‽",
